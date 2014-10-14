@@ -1,0 +1,6 @@
+&var11=basico&
+&var21=b&
+&var31=Juda&
+&var41=Zebulom&
+&var51=Issacar&
+&var61=3&
